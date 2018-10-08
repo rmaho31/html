@@ -1,0 +1,26 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+    font-size: 4em;
+}
+.center {
+    text-align:center;
+}
+.border {
+    width: 49%;
+    display: inline-block;
+}
+#r1 {
+    float: right;
+}
+.divtable {
+    width: 19%;
+    display: inline-block;
+}
+.aligntop {
+    vertical-align: top;
+}
