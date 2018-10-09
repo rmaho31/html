@@ -1,5 +1,6 @@
 body {
-    background-color: red;
+    background-color: #6c5ce7;
+    color: white;
 }
 
 h1 {
@@ -10,7 +11,7 @@ h1 {
 .center {
     text-align:center;
 }
-.border {
+.hs2 {
     width: 49%;
     display: inline-block;
 }
@@ -21,6 +22,26 @@ h1 {
     width: 19%;
     display: inline-block;
 }
-.aligntop {
-    vertical-align: top;
+.alignbot {
+    vertical-align: bottom;
+}
+.fright {
+    text-align: right;
+}
+.tab{
+    margin-left: 40px;
+}
+.dtab{
+    margin-left: 80px;
+}
+.ts1 {
+    width: 100%;
+    text-align: center;
+}
+td {
+    width: 20%;
+}
+th, tr, td, table {
+    border: 1px solid silver;
+    border-collapse: collapse;
 }
